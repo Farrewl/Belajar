@@ -1,0 +1,30 @@
+# OS metadata
+.DS_Store
+.directory
+Thumbs.db
+
+# Compilation & Build outputs
+*.o
+*.out
+*.exe
+*.class
+*.dll
+*.so
+*.dylib
+target/
+bin/
+obj/
+dist/
+build/
+
+# Dependencies & Virtual Environments
+node_modules/
+.venv/
+env/
+venv/
+__pycache__/
+.pytest_cache/
+.cargo/
+*.iml
+.idea/
+.vscode/
